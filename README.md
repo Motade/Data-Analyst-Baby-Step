@@ -1,1 +1,20 @@
-# Data-Analyst-Baby-Step
+#Project Name: Data-Analyst-Baby-Step
+
+----
+# PROJECT OBJECTIVE: PROBLEM STATEMENT
+
+
+
+
+----
+# DATA SOURCING
+
+
+
+----
+# DATA TRANSFORMATION
+
+
+
+----
+# FINDINGS AND RECCOMENDATION
