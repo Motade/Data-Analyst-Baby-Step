@@ -1,7 +1,7 @@
-----
-#Project Name: Data-Analyst-Baby-Step
 
-----
+#PROJECT NAME: Data-Analyst-Baby-Step
+
+--
 # PROJECT OBJECTIVE: PROBLEM STATEMENT
 
 
